@@ -11,8 +11,8 @@
 Практическая работа №3    | 🟢     |<a href="https://github.com/evsmol/mirea_flutter_tasks/blob/main/lib/main3.dart">Перейти</a>
 Практическая работа №4    | 🟢     |<a href="https://github.com/evsmol/mirea_flutter_tasks/blob/main/lib/main4.dart">Перейти</a>
 Практическая работа №5    | 🟢     |<a href="https://github.com/evsmol/mirea_flutter_tasks/blob/main/lib/main5.dart">Перейти</a>
-Практическая работа №6    | 🟡     |<a href="https://github.com/evsmol/mirea_flutter_tasks/blob/main/lib/main6.dart">Перейти</a>
-Практическая работа №7    | 🔴     |
+Практическая работа №6    | 🟢     |<a href="https://github.com/evsmol/mirea_flutter_tasks/blob/main/lib/main6.dart">Перейти</a>
+Практическая работа №7    | 🟡     |<a href="https://github.com/evsmol/mirea_flutter_tasks/blob/main/lib/main7.dart">Перейти</a>
 Практическая работа №8    | 🔴     |
 Практическая работа №9    | 🔴     |
 Практическая работа №10   | 🔴     |
