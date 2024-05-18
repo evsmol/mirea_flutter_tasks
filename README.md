@@ -12,12 +12,11 @@
 Практическая работа №4    | 🟢     |<a href="https://github.com/evsmol/mirea_flutter_tasks/blob/main/lib/main4.dart">Перейти</a>
 Практическая работа №5    | 🟢     |<a href="https://github.com/evsmol/mirea_flutter_tasks/blob/main/lib/main5.dart">Перейти</a>
 Практическая работа №6    | 🟢     |<a href="https://github.com/evsmol/mirea_flutter_tasks/blob/main/lib/main6.dart">Перейти</a>
-Практическая работа №7    | 🟡     |<a href="https://github.com/evsmol/mirea_flutter_tasks/blob/main/lib/main7.dart">Перейти</a>
-Практическая работа №8    | 🔴     |
-Практическая работа №9    | 🔴     |
-Практическая работа №10   | 🔴     |
-Практическая работа №11   | 🔴     |
-Практическая работа №12   | 🔴     |
+Практическая работа №7    | 🟢     |<a href="https://github.com/evsmol/mirea_flutter_tasks/blob/main/lib/main7.dart">Перейти</a>
+Практическая работа №8    | 🟢     |<a href="https://github.com/evsmol/mirea_flutter_tasks/blob/main/lib/main8.dart">Перейти</a>
+Практическая работа №9    | 🟡     |<a href="https://github.com/evsmol/mirea_flutter_tasks/blob/main/lib/main9.dart">Перейти</a>
+Практическая работа №10   | 🟡     |<a href="https://github.com/evsmol/mirea_flutter_tasks/blob/main/lib/main10.dart">Перейти</a>
+Итоговое задание          | 🔴     |
 
 
 **Статусы выполнения:** <br>
